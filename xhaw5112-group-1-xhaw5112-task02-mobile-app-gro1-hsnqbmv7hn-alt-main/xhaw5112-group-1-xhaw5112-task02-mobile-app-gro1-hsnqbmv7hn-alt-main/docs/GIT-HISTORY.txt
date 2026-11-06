@@ -1,0 +1,11 @@
+Implementation history (six milestones, oldest first)
+
+1. Darshil Singh — chore: initialize Expo app foundation, theme tokens and shared primitives (Darshil Singh)
+2. Darshil Singh — feat: add typed navigation, bottom tabs and Home/Explore/About screens (Darshil Singh)
+3. Ethan Haywood — feat: build package details and visual card system with arena imagery (Ethan Haywood)
+4. Ethan Haywood — feat: add experience details and coach, date and time-slot booking (Ethan Haywood)
+5. Jovan David — feat: add content layer, fee engine, validation, forms and tests (Jovan David)
+6. Jovan David — docs: add QA evidence, setup guide and final handoff (Jovan David)
+
+Each commit is scoped to the ownership boundaries in TEAM-OWNERSHIP.md and names the
+responsible developer in its subject line.
